@@ -1,0 +1,16 @@
+C:\Users\Hafiz\source\repos\xmltocsv\bin\Debug\net5.0\xmltocsv.exe
+C:\Users\Hafiz\source\repos\xmltocsv\bin\Debug\net5.0\xmltocsv.deps.json
+C:\Users\Hafiz\source\repos\xmltocsv\bin\Debug\net5.0\xmltocsv.runtimeconfig.json
+C:\Users\Hafiz\source\repos\xmltocsv\bin\Debug\net5.0\xmltocsv.runtimeconfig.dev.json
+C:\Users\Hafiz\source\repos\xmltocsv\bin\Debug\net5.0\xmltocsv.dll
+C:\Users\Hafiz\source\repos\xmltocsv\bin\Debug\net5.0\ref\xmltocsv.dll
+C:\Users\Hafiz\source\repos\xmltocsv\bin\Debug\net5.0\xmltocsv.pdb
+C:\Users\Hafiz\source\repos\xmltocsv\obj\Debug\net5.0\xmltocsv.csproj.AssemblyReference.cache
+C:\Users\Hafiz\source\repos\xmltocsv\obj\Debug\net5.0\xmltocsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hafiz\source\repos\xmltocsv\obj\Debug\net5.0\xmltocsv.AssemblyInfoInputs.cache
+C:\Users\Hafiz\source\repos\xmltocsv\obj\Debug\net5.0\xmltocsv.AssemblyInfo.cs
+C:\Users\Hafiz\source\repos\xmltocsv\obj\Debug\net5.0\xmltocsv.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\source\repos\xmltocsv\obj\Debug\net5.0\xmltocsv.dll
+C:\Users\Hafiz\source\repos\xmltocsv\obj\Debug\net5.0\ref\xmltocsv.dll
+C:\Users\Hafiz\source\repos\xmltocsv\obj\Debug\net5.0\xmltocsv.pdb
+C:\Users\Hafiz\source\repos\xmltocsv\obj\Debug\net5.0\xmltocsv.genruntimeconfig.cache

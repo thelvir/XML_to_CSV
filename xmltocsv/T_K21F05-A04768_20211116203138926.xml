@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SortResult MachineID="K5A-01" machineNumber="K21F05-A04768" packageNumber="1001" startDateTime="2021-11-16T20:31:30:283+00:00" sendDateTime="2021-11-16T20:31:38:926+00:00" rejectionExists="false" endDateTime="2021-11-16T20:31:38:926+00:00">
+    <line>
+        <currencyCode>AZN</currencyCode>
+        <nominal>1</nominal>
+        <qty>3</qty>
+        <amount>3</amount>
+        <rejected>false</rejected>
+    </line>
+    <line>
+        <currencyCode>AZN</currencyCode>
+        <nominal>5</nominal>
+        <qty>7</qty>
+        <amount>35</amount>
+        <rejected>false</rejected>
+    </line>
+    <line>
+        <currencyCode>AZN</currencyCode>
+        <nominal>20</nominal>
+        <qty>1</qty>
+        <amount>20</amount>
+        <rejected>false</rejected>
+    </line>
+</SortResult>
